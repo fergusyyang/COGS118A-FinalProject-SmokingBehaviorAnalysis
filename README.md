@@ -1,4 +1,4 @@
-# COGS 118A Final Project - Smoking Behavior Analysis
+# Smoking Behavior Analysis
 
 This project applies machine learning models to predict smoking behavior based on socio-demographic data. The analysis uses logistic regression, random forest, and SVM techniques.
 
